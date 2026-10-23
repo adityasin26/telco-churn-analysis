@@ -26,7 +26,7 @@ Telecom companies lose customers every month, and acquiring a new customer costs
 
 \- \*\*Power BI:\*\* interactive dashboard
 
-\- \*\*Excel:\*\* planned for summary reporting
+
 
 
 
